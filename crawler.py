@@ -30,5 +30,3 @@ for a in data:
                     print "there is error"
             except:
                 pass
-
-db.close()
